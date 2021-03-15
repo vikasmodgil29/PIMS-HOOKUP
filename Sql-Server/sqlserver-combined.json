@@ -118,7 +118,7 @@
         },
         "adminPassword": {
             "type": "secureString",
-            "defaultValue": "Passw0rdPassw0rd"
+            "defaultValue": ""
         },
         "patchMode": {
             "type": "string",
